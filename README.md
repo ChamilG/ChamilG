@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  📫 How to reach me: 
- portfolio = https://chamilg.github.io/
+  https://chamilg.github.io/
 <!--
 **ChamilG/ChamilG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
