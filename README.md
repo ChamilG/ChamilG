@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I sing and dance when I am stressed 😄
 
 
-<h3 align="left"> 🤝 Connect with me:</h3>
+<h3 align="left"> 🤝 Connect with Me:</h3>
 <p align="left">
  <a href="https://chamilg.github.io/" target="blank"><img align="center" src="https://github.com/ChamilG/ChamilG/blob/main/portfolio.png" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chamil-gamage-57745a251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamil-gamage-57745a251" height="30" width="40" /></a>
