@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <a href="https://fb.com/chamilnethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamilnethmina" height="30" width="40" /></a>
 <a href="https://instagram.com/chamilnethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamilnethmina" height="30" width="40" /></a>
 <a href="https://kaggle.com/chamilgamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chamilgamage" height="30" width="40" /></a>
+<a href="https://medium.com/@chamilnethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamilnethmina" height="30" width="40" /></a>
 </p>
 
 
