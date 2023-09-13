@@ -1,4 +1,4 @@
-### Hi there 👋 I am Chamil
+### Hi there 👋 I am Chamil Gamage
  ![MasterHead](https://github.com/ChamilG/ChamilG/blob/main/masterhead2.gif)
 
 <!--
