@@ -1,4 +1,4 @@
-### Hi there 👋 I am Chamil Gamage
+
  ![MasterHead](https://github.com/ChamilG/ChamilG/blob/main/masterhead2.gif)
 
 <!--
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I am Chamil Gamage
 <img align="right" width=400 height=250 alt="codingimage" src = "https://github.com/ChamilG/ChamilG/blob/main/codinganimation.gif">
 
 <h3 align="left">👨🏻‍💻 About:</h3>
